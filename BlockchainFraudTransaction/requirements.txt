@@ -1,0 +1,11 @@
+install numpy==1.19.2
+install pandas==0.25.3
+install matplotlib==3.1.1
+install keras==2.3.1
+install tensorflow==1.14.0
+install h5py==2.10.0
+install protobuf==3.16.0
+install scikit-learn==0.22.2.post1
+install seaborn==0.10.1
+
+ 
